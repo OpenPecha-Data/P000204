@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000204
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: RDI-SS-02
   layers:
   - book_title
   - author
   - chapter_title
   - tsawa
   - quotation
+  id: RDI-SS-02
 web_metadata:
   title:
     en: The Nectar of the Heart of Oral Instructions
